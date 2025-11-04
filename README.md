@@ -13,7 +13,6 @@
     <img src="ble.jpg" alt="lombo">
 </section>
 
-<section class ble =>
 <h2>Modo de preparo : 1h⊹ ࣪ ˖⏱ ୭˚. ᵎ</h2>
 <h3>Ingredientes (12 porções)</h3>
 <p>1 - Passe no liquidificador 1 tomate grande, 3 cebolas grandes , alhos vinagre e sal a gosto.</p>
