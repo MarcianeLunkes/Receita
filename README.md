@@ -34,8 +34,3 @@
         <p>&copy; 2025 - Todos os direitos reservados.</p>
     </div>
 </footer>
-
-</body>
-</html>
-</html>
-</main>
