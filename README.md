@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="receita.css">
-    <title>Lombo Recheado</title>
 </head>
 </html>
 <body>
@@ -37,19 +36,6 @@
     </div>
 </footer>
 
-
-       
-<script>
-    function MostrarDetalhes(){
-        const detalhes = document.getElementByld("detalhes");
-        if(detalhes.style.display === "block"){
-            detalhes.style.display = "none";
-        } else {
-            detalhes.style.display ="block"
-        }
-    }
-    
-</script>
 </body>
 </html>
 </html>
